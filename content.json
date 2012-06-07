@@ -1,0 +1,18 @@
+[
+{ "title": "Areas of memory",
+  "entries": [ "area", "chunk", "arena", "block", "extent", "sector", "segment" ] },
+{ "title": "Pointer-like objects",
+  "entries": [ "pointer", "box", "cell" ] },
+{ "title": "Data descriptors",
+  "entries": [ "descriptor", "control block", "header", "prelude", "record", "entry" ] },
+{ "title": "Mappings",
+  "entries": [ "map", "table", "hash", "associative array", "function" ] },
+{ "title": "Function-like objects",
+  "entries": [ "functor", "operator", "closure", "lambda", "procedure" ] },
+{ "title": "Function parameters",
+  "entries": [ "parameters", "arguments", "formals" ] },
+{ "title": "Data collection",
+  "entries": [ "class", "object", "struct", "record", "entry" ] },
+{ "title": "Handles",
+  "entries": [ "handle", "ID", "descriptor" ] },
+]
