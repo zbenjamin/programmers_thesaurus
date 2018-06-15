@@ -15,4 +15,6 @@
   "entries": [ "class", "object", "struct", "record", "entry" ] },
 { "title": "Handles",
   "entries": [ "handle", "ID", "descriptor" ] },
+{ "title": "Messages",
+  "entries": [ "message", "notification", "packet", "update", "dispatch", "notice", "advertisement", "announcement", "alert" ] }
 ]
